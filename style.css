@@ -13,6 +13,36 @@ main{
 	margin-top: 40px;
 	margin-bottom: 40px;
 }
-h1{
+h5, h4, h1{
 	text-align: center;
+	margin-top: 2px;
+
 }
+.page-footer{
+	background: #803c42;
+}
+h6{
+	text-align: right;
+	margin-right: 10vh;
+	margin-bottom: 5vh;
+}
+
+.carousel-slider{
+	margin-top: 10px;
+}
+
+.brand-logo{
+	z-index: 0;
+}
+   p {
+    text-indent: 20px;
+    text-align: justify;
+    color: #000000;
+   }
+   h1{
+   	color: #000000;
+   	text-shadow: 3px 5px 6px #000000;
+   }
+   span{
+   	text-shadow: 3px 5px 10px #000000;
+   }
